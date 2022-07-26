@@ -1,0 +1,2 @@
+Your UID is 1000.
+You are not root.
