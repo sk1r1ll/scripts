@@ -1,0 +1,20 @@
+Starting sysinfo script
+DESKTOP-3IJTBLD
+Tue Jul 26 18:40:25 MSK 2022
+5.10.16.3-microsoft-standard-WSL2
+x86_64
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdb        251G  1.3G  237G   1% /
+tmpfs           7.8G     0  7.8G   0% /mnt/wsl
+tools           119G   87G   32G  74% /init
+none            7.8G     0  7.8G   0% /dev
+none            7.8G  4.0K  7.8G   1% /run
+none            7.8G     0  7.8G   0% /run/lock
+none            7.8G     0  7.8G   0% /run/shm
+none            7.8G     0  7.8G   0% /run/user
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+drivers         119G   87G   32G  74% /usr/lib/wsl/drivers
+lib             119G   87G   32G  74% /usr/lib/wsl/lib
+C:\             119G   87G   32G  74% /mnt/c
+D:\             466G  427G   40G  92% /mnt/d
+Script sysinfo is done.
